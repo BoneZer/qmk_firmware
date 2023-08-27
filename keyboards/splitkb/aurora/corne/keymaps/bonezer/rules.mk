@@ -6,3 +6,5 @@ RGB_MATRIX_ENABLE = yes
 CONSOLE_ENABLE = yes
 TAP_DANCE_ENABLE = no
 OLED_ENABLE = yes
+
+SRC += features/achordion.c
